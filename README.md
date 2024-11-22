@@ -1,2 +1,2 @@
-# .Net-Program
+# Program
 C#
